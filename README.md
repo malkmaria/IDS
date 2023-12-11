@@ -12,7 +12,7 @@ This project focuses on predicting survival rates after the initial lung cancer 
 Analyzing fictional patient treatment trajectories, our goal is to spot the key procedures, drugs, and differenttreatments that impact survival. 
 Our aim is to develop a predictive tool toguide healthcare decisions for better patient care.
 
-## Guide
+## Files in the repository
 **project_workflow.ipynb** - Contains the complete workflow of our project. Workflow consists of:  
 - Loading and preprocessing the patient data
 - Applying PCA for key feature identification
@@ -25,5 +25,10 @@ Our aim is to develop a predictive tool toguide healthcare decisions for better 
 - Visualizing feature distributions in PCA space
 - Conducting correlation analysis for further insights
 
-**synthetic_data_lung_cancer.csv** - Synthetic training dataset containing treatment trajectories of lung cancer patients.
+**synthetic_data_lung_cancer.csv** - Synthetic training dataset containing treatment trajectories of lung cancer patients.  
+
 **synthetic_data_pca.csv** - Synthetic validation dataset containing treatment trajectories of prostate cancer patients.
+
+**B5_report** - Homework 10 tasks
+
+**Old stuff/** - Folder containing various files related to older workflow iterations
